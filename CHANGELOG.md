@@ -34,7 +34,6 @@
 
 感谢所有测试早期版本并提供反馈的朋友和支持者们！
 
-
 ## English Version Change Log
 
 ### Changelog - PinkDopeyBug Theme Plugin 0.0.1 Release
@@ -56,6 +55,80 @@
   - Adopted a lighter background color from One Dark Modern Classic to reduce eye strain when switching between dark coding environments and light-colored applications.
   - Changed variable colors to avoid confusion with error messages.
   - Provided detailed installation and usage instructions.
+
+---
+
+#### Known Issues
+
+- No known issues at this time.
+
+---
+
+#### Acknowledgments
+
+Thank you to all friends and supporters who tested early versions and provided feedback!
+
+# Version-0.0.2
+
+## 中文版更新日志
+
+### 更新日志 - PinkDopeyBug 主题插件 0.0.2 版本
+
+**发布日期:** 2024年10月27日
+**版本号:** 0.0.2
+**作者:** PinkDopeyBug
+**贡献者:** PinkDopeyBug
+
+---
+
+#### 更新内容
+
+- **修复了 XML 和 YML 文件中缩进辅助线丢失的问题**：
+
+  - 现在在 XML 和 YML 文件中，缩进辅助线能够正确显示，提高了代码的可读性和编辑体验。
+- **调整了注释颜色**：
+
+  - 注释颜色进行了调整，使其在深色背景下更加清晰可读。
+- **优化了光标悬停和选中颜色**：
+
+  - 对光标悬停和文本选中的背景颜色进行了调整，提高了对比度和可读性。
+
+---
+
+#### 已知问题
+
+- 当前没有已知问题。
+
+---
+
+#### 致谢
+
+感谢所有测试早期版本并提供反馈的朋友和支持者们！
+
+---
+
+## English Version Change Log
+
+### Changelog - PinkDopeyBug Theme Plugin 0.0.2 Release
+
+**Release Date:** October 27, 2024
+**Version:** 0.0.2
+**Author:** PinkDopeyBug
+**Contributors:** PinkDopeyBug
+
+---
+
+#### What's New
+
+- **Fixed Indentation Guidelines Issue in XML and YML Files**:
+
+  - Indentation guidelines now display correctly in XML and YML files, improving code readability and editing experience.
+- **Adjusted Comment Colors**:
+
+  - Comment colors have been adjusted to be more readable on a dark background.
+- **Optimized Cursor Hover and Selection Colors**:
+
+  - Background colors for cursor hover and text selection have been adjusted to increase contrast and readability.
 
 ---
 
