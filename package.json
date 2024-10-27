@@ -26,6 +26,17 @@
       }
     ]
   },
+  "bugs": {
+    "url": "https://github.com/PinkDopeyBug/pinkdopeybug-theme/issues"
+  },
+  "homepage": "https://github.com/PinkDopeyBug/pinkdopeybug-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PinkDopeyBug/pinkdopeybug-theme"
+  },
+  "sponsor": {
+    "url": "https://github.com/PinkDopeyBug"
+  },
   "dependencies": {
     "pinkdopeybug": "file:",
     "vsce": "^2.15.0"
