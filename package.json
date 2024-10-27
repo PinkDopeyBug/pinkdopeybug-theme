@@ -19,6 +19,7 @@
     ]
   },
   "dependencies": {
-    "pinkdopeybug": "file:"
+    "pinkdopeybug": "file:",
+    "vsce": "^2.15.0"
   }
 }
