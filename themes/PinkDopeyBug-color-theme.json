@@ -5,7 +5,7 @@
     "activityBar.foreground": "#D7DAE0",
     "activityBarBadge.background": "#528BFF",
     "activityBarBadge.foreground": "#F8FAFD",
-    "badge.background": "#282c34",
+    "badge.background": "#528BFF",//#282C34
     "button.background": "#404754",
     "debugToolBar.background": "#232933",
     "diffEditor.insertedTextBackground": "#00809B33",
@@ -35,7 +35,7 @@
     "editorHoverWidget.background": "#232933",
     "editorHoverWidget.border": "#181A1F",
     "editorIndentGuide.activeBackground": "#909039",
-    "editorIndentGuide.background": "#303845",
+    "editorIndentGuide.background": "#626772",
     "editorInlayHint.foreground": "#abb2bf",
     "editorInlayHint.background": "#2c313c",
     "editorLineNumber.foreground": "#495162",
@@ -50,12 +50,12 @@
     "focusBorder": "#232933",
     "input.background": "#232933",
     "input.placeholderForeground": "#BBBBBB",
-    "list.activeSelectionBackground": "#775f7a",//
+    "list.activeSelectionBackground": "#51447d",//#775f7a
     "list.activeSelectionForeground": "#d7dae0",
     "list.focusBackground": "#383E4A",
     "list.highlightForeground": "#C5C5C5",
-    "list.hoverBackground": "#786c78",//
-    "list.inactiveSelectionBackground": "#775f7a",//624966
+    "list.hoverBackground": "#6e5886",//
+    "list.inactiveSelectionBackground": "#51447d",//624966
     "list.inactiveSelectionForeground": "#d7dae0",
     "menu.background": "#2D3440",
     "menu.foreground": "#CCCCCC",
@@ -143,14 +143,14 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#79a8a9"
+        "foreground": "#6a9aa0"//注释颜色
       }
     },
     {
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#79a8a9",//
+        "foreground": "#6a9aa0",//79a8a9
         "fontStyle": "normal"
       }
     },
