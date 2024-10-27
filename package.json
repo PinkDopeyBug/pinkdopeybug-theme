@@ -1,0 +1,24 @@
+{
+  "name": "pinkdopeybug",
+  "displayName": "PinkDopeyBug",
+  "description": "PinkDopeyBug",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "PinkDopeyBug",
+        "uiTheme": "vs-dark",
+        "path": "./themes/PinkDopeyBug-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "pinkdopeybug": "file:"
+  }
+}
