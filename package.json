@@ -3,11 +3,19 @@
   "displayName": "PinkDopeyBug",
   "description": "PinkDopeyBug",
   "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "PinkDopeyBug",
   "engines": {
     "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
+  ],
+  "icon": "icon.ico",
+  "keywords": [
+    "pinkdopeybug",
+    "theme",
+    "PinkDopeyBug"
   ],
   "contributes": {
     "themes": [
