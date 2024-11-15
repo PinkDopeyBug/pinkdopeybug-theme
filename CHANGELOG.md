@@ -1,4 +1,4 @@
-# Version-0.0.1
+# Version-0.0.1 (2024-10-27)
 
 ## 中文版更新日志
 
@@ -68,7 +68,10 @@
 
 Thank you to all friends and supporters who tested early versions and provided feedback!
 
-# Version-0.0.2
+---
+
+
+# Version-0.0.2 (2024-10-27)
 
 ## 中文版更新日志
 
@@ -141,3 +144,89 @@ Thank you to all friends and supporters who tested early versions and provided f
 #### Acknowledgments
 
 Thank you to all friends and supporters who tested early versions and provided feedback!
+
+---
+
+
+
+# Version-0.0.3 (2024-11-15)
+
+## 中文版更新日志
+
+### 更新日志 - PinkDopeyBug 主题插件 0.0.3 版本
+
+**发布日期:** 2024年11月15日
+**版本号:** 0.0.3
+**作者:** PinkDopeyBug
+**贡献者:** PinkDopeyBug
+
+---
+
+#### 更新内容
+
+- **调整非工作区选中和活跃颜色**：
+
+  - 将非工作区选中和活跃颜色，从原来的灰紫色或灰粉色改为不同亮度的灰蓝色，以更契合主题背景，极大减少了 UI 不一致感。
+- **修复 Python 中原始字面量字符串和基础字符串颜色不一致问题**：
+
+  - 现在 Python 中的原始字面量字符串和基础字符串颜色一致，提高了代码的可读性。
+- **优化 JavaScript 中多对象属性变量链式调用的颜色**：
+
+  - 修复了 JavaScript 中多对象属性变量链式调用时颜色都显示为粉色的问题，提高了代码的可辨识性。
+- **调整特定变量颜色**：
+
+  - 将特定变量的颜色从粉色更改为黄色，以示区分，提高了代码的可读性和辨识度。
+
+---
+
+#### 已知问题
+
+- 当前没有已知问题。
+
+---
+
+#### 致谢
+
+感谢所有测试早期版本并提供反馈的朋友和支持者们！
+
+---
+
+## English Version Change Log
+
+### Changelog - PinkDopeyBug Theme Plugin 0.0.3 Release
+
+**Release Date:** November 15, 2024
+**Version:** 0.0.3
+**Author:** PinkDopeyBug
+**Contributors:** PinkDopeyBug
+
+---
+
+#### What's New
+
+- **Adjusted Non-Workspace Selection and Active Colors**:
+
+  - Changed the non-workspace selection and active colors from the original gray-purple or gray-pink to different shades of gray-blue to better match the theme background, significantly reducing UI inconsistency.
+- **Fixed Inconsistent Colors for Raw Literal Strings and Basic Strings in Python**:
+
+  - Now, raw literal strings and basic strings in Python have consistent colors, improving code readability.
+- **Optimized Colors for Multi-Object Property Chain Calls in JavaScript**:
+
+  - Fixed the issue where colors for multi-object property chain calls in JavaScript were all pink, enhancing code distinguishability.
+- **Adjusted Specific Variable Colors**:
+
+  - Changed specific variable colors from pink to yellow for better distinction, improving code readability and distinguishability.
+
+---
+
+#### Known Issues
+
+- No known issues at this time.
+
+---
+
+#### Acknowledgments
+
+Thank you to all friends and supporters who tested early versions and provided feedback!
+
+---

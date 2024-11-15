@@ -1,8 +1,8 @@
 {
   "name": "pinkdopeybug",
   "displayName": "PinkDopeyBug",
-  "description": "PinkDopeyBug",
-  "version": "0.0.2",
+  "description": "Pink Dopey Bug theme for Visual Studio Code",
+  "version": "0.0.3",
   "license": "MIT",
   "publisher": "PinkDopeyBug",
   "engines": {
